@@ -27,9 +27,6 @@ class MyDocument extends Document {
 
         </Head>
         <body>
-          <Main />
-          <NextScript />
-
           <p>YouTube est un site web d'hébergement de vidéos et média social sur lequel les utilisateurs peuvent envoyer, rega
             rder, commenter, évaluer et partager des vidéos en streaming. Il est créé en février 2005 par Steve Chen, Chad Hurley et Jawed
              Karim, trois</p>
@@ -39,6 +36,10 @@ class MyDocument extends Document {
               de médias traditionnels. Les chaînes YouTube les plus populaires et les partenaires officiels du site perçoivent un pourcen
               tage des revenus publicitaires qu'ils contribuent à générer.</p>
 
+          <Main />
+          <NextScript />
+
+          
               
         </body>
 
