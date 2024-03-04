@@ -37,12 +37,13 @@ const Index = () => {
     <div className="container mx-auto px-4 py-8">
       <header className="text-center mb-8">
         <h1 className="text-3xl font-bold mb-2">
-          Youtube Thumbnail Downloader
+          Download YouTube Thumbnail
         </h1>
         <p className="text-gray-600">
-          Download high-quality thumbnails from YouTube videos.
+        A free tool for instantly grabbing and downloading any YouTube thumbnail.
         </p>
       </header>
+      <img src="/img/1.jpg" alt="Nom " />
       <div className="text-center">
         <input
           type="text"
