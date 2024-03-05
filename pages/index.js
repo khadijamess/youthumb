@@ -36,7 +36,6 @@ const Index = () => {
   return (
     <div className="container mx-auto px-4 py-8">
       <header className="text-center mb-8">
-      <img src="/img/400425.png" alt="Your Image" className="mb-4 mx-auto" />
         <h1 className="text-3xl font-bold mb-2">
           Download YouTube Thumbnail
         </h1>

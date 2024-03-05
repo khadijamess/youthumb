@@ -13,14 +13,14 @@ class MyDocument extends Document {
           <link
             rel="icon"
             type="image/png"
-            sizes="128x128"
-            href="/favicon/9230525.png"
+            sizes="16x16"
+            href="/favicon/1.png"
           />
           <link
             rel="icon"
             type="image/png"
-            sizes="128x128"
-            href="/favicon/9230525.png"
+            sizes="32x32"
+            href="/favicon/2.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
