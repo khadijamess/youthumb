@@ -3,7 +3,7 @@
 /* Set the base font and background color for the entire app */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f7fafc;
+  background-color: #bce0f9;
 }
 
 /* Center align the content in the container */
@@ -30,7 +30,7 @@ input[type="text"] + button {
 
 /* Style the "Download Thumbnails" button */
 .btn-blue {
-  background-color: #3498db;
+  background-color: red;
   color: white;
   font-weight: bold;
   padding: 0.5rem 1rem;
